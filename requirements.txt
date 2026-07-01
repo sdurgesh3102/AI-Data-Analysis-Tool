@@ -1,3 +1,6 @@
 streamlit
-GROQ
+pandas
+numpy
+plotly
+openai
 python-dotenv
